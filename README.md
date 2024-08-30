@@ -1,5 +1,5 @@
 # Wager Werks: Predictive Toolkit
-**Elevate your sports betting with Wager Werks: Predictive Toolkit.** With our sophisticated machine learning models tailored for individual player positions, you're equipped to make smarter, more informed wagers across every game.
+**Elevate your sports betting with Wager Werks: Predictive Toolkit.** With our sophisticated machine learning models tailored for individual player positions in the NFL, you're equipped to make more informed wagers across every game.
 
 <p align="center">
   <img src="./IMG_3227.png" alt="Wager Werks Screenshot 1" width="25%">
