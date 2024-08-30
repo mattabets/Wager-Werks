@@ -1,6 +1,8 @@
 # Wager Werks: Predictive Toolkit
 
-![Wager Werks Screenshots](./IMG_3227.png)
+![Wager Werks Screenshot 1](./IMG_3227.png)
+![Wager Werks Screenshot 2](./IMG_3228.png)
+![Wager Werks Screenshot 3](./IMG_3229.png)
 
 **Elevate your sports betting with Wager Werks: Predictive Toolkit.** Our cutting-edge app offers precision predictions for NFL player performances, empowering you to make smarter, more informed bets across every game. With position-specific models tailored for quarterbacks, running backs, wide receivers, and tight ends, you gain access to professional-grade tools typically reserved for elite handicappers.
 
