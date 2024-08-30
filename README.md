@@ -1,5 +1,5 @@
 # Wager Werks: Predictive Toolkit
-**Elevate your sports betting with Wager Werks: Predictive Toolkit.** With our sophisticated machine learning models tailored for individual player positions in the NFL, you're equipped to make more informed wagers across every game.
+**Elevate your sports betting with Wager Werks: Predictive Toolkit.** Our sophisticated machine learning models, tailored for individual NFL player positions, equip you to make more informed wagers on every game.
 
 <p align="center">
   <img src="./IMG_3227.png" alt="Wager Werks Screenshot 1" width="25%">
@@ -9,7 +9,7 @@
 
 ## Why Choose Wager Werks?
 
-- **Position-Specific Models:** Tailored for tight ends, quarterbacks, running backs, and wide receivers to align with position specific variables.
+- **Position-Specific Models:** Tailored for tight ends, quarterbacks, running backs, and wide receivers to align with position-specific variables.
 - **Time-Saving Automation:** Wager Werks collects the data and calculates performance variables, automating the research and eliminating the guesswork from your bets.
 - **Public Access to Professional Tools:** Leverage the same sophisticated machine learning technology used by sportsbooks and professional handicappers.
 - **User-Friendly Interface:** Simply enter the player's name and the NFL season week number to receive performance predictions.
@@ -17,6 +17,6 @@
 
 ## Transform Your NFL Betting Strategy
 
-Save time and improve your odds with Wager Werks. Compare our predictions to sportsbook lines and place smarter bets!
+Save time and improve your odds with Wager Werks. Compare our NFL predictions to sportsbook lines and place smarter bets!
 
 **Want to become a user?** Email us at [wagerwerks@outlook.com](mailto:wagerwerks@outlook.com) to get started!
